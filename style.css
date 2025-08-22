@@ -1,7 +1,7 @@
 body{
     color: ghostwhite;
-    background-color: rgb(11, 20, 102);
+    background-color: rgb(2, 7, 46);
 }
 header{
-    border: solid 1px;
+    border-bottom: solid 1px rgb(66, 66, 247);
 }
